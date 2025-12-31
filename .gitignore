@@ -1,10 +1,7 @@
-# Virtual Environment
+# Python
 .venv/
 venv/
 env/
-ENV/
-
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -13,13 +10,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# Data files (if large)
-data/
-*.csv
-*.parquet
-*.h5
-*.hdf5
 
 # IDE
 .vscode/
@@ -31,6 +21,8 @@ data/
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
+# Data files (optional - uncomment if you don't want to track data)
+# data/
+# *.csv
+# *.parquet
 
