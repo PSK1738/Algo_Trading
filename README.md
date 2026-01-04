@@ -3,7 +3,7 @@
 research -> Experimenting -> Notebook_pt1 contains main/recent project :)
  Experimenting with trend-following algoriths will all logic grounded in academic research.
 
- Papers used:
+ Relevant papers:
 
  A Century of Profitable Industry Trends (with Gary Antonacci)
 48 industry portfolios, 1926–2024
